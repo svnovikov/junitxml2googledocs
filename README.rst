@@ -14,7 +14,7 @@ To run script, you first need to install package requirements ::
 
 Suggestion: Install package into virtual environment.
 
-After that, you can run publishing of your junitxml reports into
+After that, you can publish your junitxml reports into
 Google Docs ::
 
     $> python junitxml2googledocs.py -e <your google email>-n <name your report> -f <junitxml files>
